@@ -11,3 +11,7 @@ Datasets and codes for auditing structural bias on AMP ML classifiers
 # Code availability
 - R script to project GRAMPA and non-GRAMPA datasets onto a ternary plot representation.
 - Python script to produce UMAP projections of ProstT5-derived 3Di structural embeddings for the training and validation datasets.
+
+
+# Preprint
+https://www.biorxiv.org/content/10.64898/2026.05.06.721805v1
