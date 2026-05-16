@@ -15,3 +15,6 @@ Datasets and codes for auditing structural bias on AMP ML classifiers
 
 # Preprint
 https://www.biorxiv.org/content/10.64898/2026.05.06.721805v1
+
+# Zenodo
+https://zenodo.org/records/20221235
